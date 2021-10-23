@@ -1,0 +1,16 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+.aligned {
+    width: 50%;
+    float: left;
+}
+.aligned1 {
+    width: 50%;
+    margin-top: 25%;
+    float: left;
+    text-align: center;
+}
